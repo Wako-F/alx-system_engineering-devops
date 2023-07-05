@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -p | grep -E '^[0-9A-Za-z]' | sort -k1,1 | tr '\n' ','; echo
+ls -a -p | grep -E '^[0-9A-Za-z]' | sort -k1,1 | tr '\n' ',' | echo
