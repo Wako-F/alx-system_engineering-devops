@@ -6,4 +6,5 @@
 5-listfilesdigitonly lists all files including hidden ones in long format with user and group IDs displayed numerically
 6-firstdirectory creates a directory inside the tmp directory
 7-movethatfile moves the file betty from /tmp to /tmp/my_first_directory
+8-firstdelete deletes the file betty
 
