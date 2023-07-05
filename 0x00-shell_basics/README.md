@@ -16,4 +16,5 @@
 100-lets_move moves all files beginning with a capital letter
 101-clean_emacs removes all files in the working directory beginning with the character ~
 102-tree creates the directory welcome/ welcome/to/ and welcome/to/school
+103-commas lists files in current directory separeated by commas
 
