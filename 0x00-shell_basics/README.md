@@ -14,4 +14,5 @@
 13-symbolic_link creates a symolic link to /bin/ls
 14-copy_html copies html files from working directory to parent directory
 100-lets_move moves all files beginning with a capital letter
+101-clean_emacs removes all files in the working directory beginning with the character ~
 
