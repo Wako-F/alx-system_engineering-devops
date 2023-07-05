@@ -13,4 +13,5 @@
 12-file_type prints the type of file of file named iamafile
 13-symbolic_link creates a symolic link to /bin/ls
 14-copy_html copies html files from working directory to parent directory
+100-lets_move moves all files beginning with a capital letter
 
